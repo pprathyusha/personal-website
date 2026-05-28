@@ -1,7 +1,5 @@
 # Personal Website
 
-A clean, single-page personal site inspired by [sivapadamata.com](https://sivapadamata.com/).
-
 ## Structure
 - `index.html` — markup with Hero, About, Stack, Blog, Beyond, Contact sections
 - `styles.css` — dark theme, mint/teal accent, responsive grid
